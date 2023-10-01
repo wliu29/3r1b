@@ -217,7 +217,7 @@ public class App {
         });
 
         JFrame frame = new JFrame("Nutrition Education by 3Rice1Bean");
-        frame.setLayout(new GridLayout(2, 5)); // 2 rows, 4 columns
+        frame.setLayout(new GridLayout(2, 5)); // 2 rows, 5 columns
 
         frame.add(title);
         frame.add(button1);
